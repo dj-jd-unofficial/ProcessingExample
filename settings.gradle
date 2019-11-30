@@ -1,0 +1,2 @@
+include ':app', ':processing-core'
+rootProject.name='ProcessingExample'
