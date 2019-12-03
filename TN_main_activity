@@ -1,3 +1,10 @@
+
+Stack overflow example
+
+https://stackoverflow.com/questions/39618629/how-to-correctly-exit-a-processing-sketch-in-android
+
+
+
 package com.firebase.myprocessingapp;
 
 import androidx.appcompat.app.AppCompatActivity;
